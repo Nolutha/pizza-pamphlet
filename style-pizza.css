@@ -1,0 +1,84 @@
+
+        .pizzas {
+            margin: 1em;
+            padding: 1em;
+            /* width: 50%; */
+        }
+
+        .pizza {
+            border: 1px solid rgb(167, 167, 160);
+            margin: 1em;
+            padding: 1em;
+            height: 403.6893310546875px;
+            width: 299.4486389160156px;
+            left: -36.33685302734375px;
+            top: -210.040771484375px;
+            border-radius: 0px;
+
+        }
+
+        h1 {
+            background-color: rgb(192, 192, 247);
+            color: black;
+            text-align: center;
+        }
+
+        body {
+            background-color: rgb(250, 111, 146);
+        }
+
+        @media (min-width: 900px) {
+            .pizzas {
+                display: flex;
+                
+
+
+
+            }
+        }
+
+        .box {
+            background-color: rgb(245, 213, 69);
+            
+    
+        
+        
+
+        }
+        .f1{
+        float: right
+        ;
+        height: 50px; 
+        width: 100px;
+        background-color: rgb(193, 183, 252);
+        }
+        .tables{
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .buttons { 
+            height: 50px; 
+            width: 100px; 
+            background-color: rgb(53, 207, 104);
+            } 
+        .f2{height: 50px; 
+            width: 100px;
+            background-color:rgb(194, 187, 233)
+            ;
+        float: right;}
+        @media(min-width:760px)
+        {table,tr,td {
+                border: 1px solid rgb(216, 208, 208);
+                 border-collapse: collapse;
+                align-items: center;
+                background-color: darkorange;
+                width: 80%;
+              padding: 1em;
+              border-radius: 1em;
+        }
+    }
+        .message { background-color: rgb(122, 255, 233);
+
+    }
+
+    

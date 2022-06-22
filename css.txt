@@ -38,9 +38,9 @@
             }
         }
 
-        .box {
+        .footer {
             background-color: rgb(245, 213, 69);
-            
+            display: flex;
     
         
         
